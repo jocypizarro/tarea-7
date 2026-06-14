@@ -1,4 +1,4 @@
-# Tarea 7 - API Pokémon
+# Tarea 7 - API Pokemon
 
 Proyecto desarrollado para la Tarea N°7 del curso Front End.
 
@@ -14,6 +14,6 @@ Proyecto desarrollado para la Tarea N°7 del curso Front End.
 ## Funcionalidades
 
 - Consumo de la API pública PokeAPI.
-- Obtención de los primeros 20 Pokémon.
+- Obtención de los primeros 20 Pokemones.
 - Visualización mediante cards.
 - Manejo de errores con Try/Catch.
